@@ -1,0 +1,19 @@
+plugins:
+  - jekyll-browsersync
+  - jekyll-pages-directory
+  - jekyll-postcss
+exclude:
+  - license
+  - makefile
+  - package.json
+  - tailwind.config.js
+  - package-lock.json
+  - postcss.config.js
+  - todo
+  - netlify.toml
+  - readme.md
+defaults:
+  - scope:
+      path: "" # all
+    values:
+      layout: "default"

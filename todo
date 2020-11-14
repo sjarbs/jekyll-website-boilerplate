@@ -1,0 +1,14 @@
+- .editorconfig + linter: yaml, toml, json, html, js, sass, markdown
+- minify
+
+# readme.md
+- Why .vscode/settings.json[files.exclude] is so agressive?
+- Add Netlify deployment button
+- Usage? make [install, update serve build]
+
+# issue
+- Fix:
+  ```
+  warn - The `conservative` purge mode will be removed in Tailwind 2.0.
+  warn - Please switch to the new `layers` mode instead.
+  ```

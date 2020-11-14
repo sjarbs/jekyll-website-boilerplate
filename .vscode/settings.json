@@ -1,0 +1,22 @@
+{
+  "files.exclude": {
+    "**/_site/": true,
+    "**/.sass-cache/": true,
+    "**/.jekyll-cache/": true,
+    "**/.jekyll-metadata": true,
+    "**/node_modules/": true,
+    "**/.vscode/": true,
+    "**/postcss.config.js": true,
+    "**/package-lock.json": true,
+    "**/Gemfile.lock": true,
+    "**/.tool-versions": true,
+    "**/Gemfile": true,
+    "**/package.json": true,
+    "**/.gitignore": true,
+    "**/license": true,
+    "**/tailwind.config.js": true,
+    "**/netlify.toml": true,
+    "**/_config.yaml": true,
+    "**/makefile": true
+  }
+}

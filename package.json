@@ -1,0 +1,11 @@
+{
+  "name": "jekyll-website-boilerplate",
+  "description": "💎 Boilerplate to kickstart creating a Jekyll website.",
+  "version": "0.1.0",
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  },
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
+}
