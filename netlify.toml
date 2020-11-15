@@ -1,6 +1,7 @@
 [build.environment]
   RUBY_VERSION = "2.7.2"
   NODE_VERSION = "15.2.0"
+  NODE_ENV = "production"
 [build]
-  command = "make build"
+  command = "bundle exec jekyll build"
   publish = "_site/"

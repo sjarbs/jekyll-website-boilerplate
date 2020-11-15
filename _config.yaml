@@ -1,3 +1,4 @@
+permalink: pretty
 plugins:
   - jekyll-browsersync
   - jekyll-pages-directory

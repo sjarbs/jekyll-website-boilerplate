@@ -10,7 +10,7 @@ serve:
 	bundle exec jekyll browsersync
 
 build:
-	NODE_ENV=production bundle exec jekyll build
+	bundle exec jekyll build
 
 push:
 	git add --all
